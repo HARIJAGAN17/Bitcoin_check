@@ -87,8 +87,8 @@ class _PriceState extends State<Price> {
         title: const Text(
           '⚡ BITCOIN',
           style: TextStyle(
-            color: Colors.black,
-            fontWeight: FontWeight.w900,
+            color: Colors.black45,
+            fontWeight: FontWeight.w700,
             fontSize: 30.0,
           ),
         ),
